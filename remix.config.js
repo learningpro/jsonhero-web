@@ -4,7 +4,7 @@
 module.exports = {
   appDirectory: "app",
   assetsBuildDirectory: "public/build",
-  publicPath: "/public/",
+  publicPath: "/build/",
   serverBuildTarget: "cloudflare-workers",
   serverBuildPath: "public/index.js",
   devServerBroadcastDelay: 1000,
